@@ -1,0 +1,13 @@
+11/5/2019 5:03:24 PM	This log contains information about the import operation of the script 'Table_creation.sql' into project 'Task7_SQL' on computer 'WSA-108-71' by user'Artsyom.Kivachuk.
+11/5/2019 5:03:24 PM	Started importing file: D:\projects\T7_SQL\Table_creation.sql 
+11/5/2019 5:03:24 PM	File name D:\projects\T7_SQL\Table_creation.sql (size: 953)
+11/5/2019 5:03:24 PM	Parsing import script
+11/5/2019 5:03:24 PM	Total number of batches in script: 1
+11/5/2019 5:03:24 PM	Total number of statements in script: 4
+11/5/2019 5:03:24 PM	The script was successfully imported into the project.
+11/5/2019 5:03:24 PM	Analyzing schema objects...
+11/5/2019 5:03:24 PM	Scanning project for duplicate elements
+11/5/2019 5:03:24 PM	Finished duplicate element processing
+11/5/2019 5:03:24 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+11/5/2019 5:03:24 PM	A summary of the import was saved to the following location: D:\projects\Task7_SQL\Import Script Logs\Table_creation_sql_20191105020324.log
+11/5/2019 5:03:24 PM	Click Finish to continue...

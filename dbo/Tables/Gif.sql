@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Gif] (
+	[Id] INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	[AuthorId] INT NOT NULL,
+	[Title] VARCHAR(30) NOT NULL,
+	FOREIGN KEY (AuthorId) REFERENCES [User](Id)
+);
