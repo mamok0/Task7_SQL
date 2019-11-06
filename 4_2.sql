@@ -1,2 +1,3 @@
-﻿SELECT * FROM Tag
-ORDER BY Rating;
+﻿SELECT Tag.[Name], COUNT(GifTag.TagId) AS UseCount FROM Tag
+JOIN GifTag on Tag.Id = GifTag.TagId 
+GROUP BY Tag.[Name];
