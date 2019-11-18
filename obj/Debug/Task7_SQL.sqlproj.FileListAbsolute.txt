@@ -1,0 +1,8 @@
+D:\projects\Task7_SQL\bin\Debug\Task7_SQL.dacpac
+D:\projects\Task7_SQL\obj\Debug\Task7_SQL.sqlprojAssemblyReference.cache
+D:\projects\Task7_SQL\obj\Debug\Model.xml
+D:\projects\Task7_SQL\obj\Debug\refactor.xml
+D:\projects\Task7_SQL\obj\Debug\postdeploy.sql
+D:\projects\Task7_SQL\obj\Debug\predeploy.sql
+D:\projects\Task7_SQL\obj\Debug\Task7_SQL.dll
+D:\projects\Task7_SQL\obj\Debug\Task7_SQL.pdb
