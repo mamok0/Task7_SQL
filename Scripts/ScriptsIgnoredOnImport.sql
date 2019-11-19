@@ -1,4 +1,6 @@
-﻿CREATE DATABASE GifsDb;
+﻿
+IF NOT EXISTS (SELECT * FROM sys.databases WHERE name = N'GifsDb')
+CREATE DATABASE GifsDb;
 GO
 
 use GifsDb;
